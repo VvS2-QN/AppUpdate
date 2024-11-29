@@ -1,0 +1,6 @@
+{
+  "version": "1.1.0",
+  "url": "https://github.com/<username>/<repository>/releases/download/v1.1.0/yourapp_v1.1.0.zip",
+  "description": "Bản cập nhật này bao gồm:\n- Sửa lỗi giao diện\n- Tăng hiệu năng xử lý",
+  "release_date": "2024-11-25"
+}
